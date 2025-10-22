@@ -1,6 +1,6 @@
 ## News Retrieval and Embedding System (RPP RSS Feed)
 
-Este módulo implementa un flujo reproducible para ingerir noticias de RPP Perú (https://rpp.pe/rss), tokenizarlas, generar embeddings con SentenceTransformers, almacenarlas en ChromaDB y consultarlas mediante un retriever orquestado con LangChain.
+Este repositorio implementa un flujo reproducible para ingerir noticias de RPP Perú (https://rpp.pe/rss), tokenizarlas, generar embeddings con SentenceTransformers, almacenarlas en ChromaDB y consultarlas mediante un retriever orquestado con LangChain.
 
 El objetivo principal es comprender cómo funcionan los modelos de lenguaje (LLMs), desde el proceso de tokenización y representación semántica (embeddings) hasta la búsqueda y recuperación de información en un entorno vectorial. Este laboratorio permite observar de forma práctica cómo los modelos convierten texto en representaciones numéricas que facilitan la similitud contextual y la organización inteligente de documentos.
 
